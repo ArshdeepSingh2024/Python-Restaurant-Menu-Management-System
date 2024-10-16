@@ -1,0 +1,21 @@
+		**Welcome Customer**
+
+Bill Number: 673
+
+Customer Name: ujju
+
+Customer Phone Number: 12535353
+
+=======================================================Product			Quantity			Price
+=======================================================
+Vegetable Spring Roll			1			120 Rs
+Butter Paneer			1			225 Rs
+Naan			3			150 Rs
+Rasgulla			4			100 Rs
+-------------------------------------------------------
+STARTERS Tax				14.399999999999999 Rs
+MAINCOURSE Tax				18.75 Rs
+DESSERTS Tax				8.0 Rs
+
+Total Bill 				 636.15
+-------------------------------------------------------

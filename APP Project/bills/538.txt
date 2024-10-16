@@ -1,0 +1,21 @@
+		**Welcome Customer**
+
+Bill Number: 538
+
+Customer Name: arsh
+
+Customer Phone Number: 125365636
+
+=======================================================Product			Quantity			Price
+=======================================================
+Vegetable Spring Roll			1			120 Rs
+Rice			1			30 Rs
+Butter Paneer			1			225 Rs
+Choco Lava Cake			1			79 Rs
+-------------------------------------------------------
+STARTERS Tax				14.399999999999999 Rs
+MAINCOURSE Tax				12.75 Rs
+DESSERTS Tax				6.32 Rs
+
+Total Bill 				 487.46999999999997
+-------------------------------------------------------

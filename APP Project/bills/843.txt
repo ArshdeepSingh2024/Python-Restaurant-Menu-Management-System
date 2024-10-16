@@ -1,0 +1,20 @@
+		**Welcome Customer**
+
+Bill Number: 843
+
+Customer Name: Arsh
+
+Customer Phone Number: 7985827679
+
+=======================================================Product			Quantity			Price
+=======================================================
+Vegetable Spring Roll			1			120 Rs
+Butter Paneer			1			225 Rs
+Rasgulla			1			25 Rs
+-------------------------------------------------------
+STARTERS Tax				14.399999999999999 Rs
+MAINCOURSE Tax				11.25 Rs
+DESSERTS Tax				2.0 Rs
+
+Total Bill 				 397.65
+-------------------------------------------------------

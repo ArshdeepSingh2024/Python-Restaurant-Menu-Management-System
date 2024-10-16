@@ -1,0 +1,22 @@
+		**Welcome Customer**
+
+Bill Number: 744
+
+Customer Name: arnav
+
+Customer Phone Number: 4652468556
+
+=======================================================Product			Quantity			Price
+=======================================================
+Vegetable Spring Roll			1			120 Rs
+Rice			1			30 Rs
+Butter Paneer			1			225 Rs
+Naan			3			150 Rs
+Kheer			1			150 Rs
+-------------------------------------------------------
+STARTERS Tax				14.399999999999999 Rs
+MAINCOURSE Tax				20.25 Rs
+DESSERTS Tax				12.0 Rs
+
+Total Bill 				 721.65
+-------------------------------------------------------

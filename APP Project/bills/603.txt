@@ -1,0 +1,20 @@
+		**Welcome Customer**
+
+Bill Number: 603
+
+Customer Name: arsh
+
+Customer Phone Number: 123456
+
+=======================================================Product			Quantity			Price
+=======================================================
+Vegetable Spring Roll			1			120 Rs
+Rice			1			30 Rs
+Ice Cream			1			50 Rs
+-------------------------------------------------------
+STARTERS Tax				14.399999999999999 Rs
+MAINCOURSE Tax				1.5 Rs
+DESSERTS Tax				4.0 Rs
+
+Total Bill 				 219.9
+-------------------------------------------------------

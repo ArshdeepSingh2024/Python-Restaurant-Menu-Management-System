@@ -1,0 +1,21 @@
+		**Welcome Customer**
+
+Bill Number: 919
+
+Customer Name: SWARN
+
+Customer Phone Number: 7275872133
+
+=======================================================Product			Quantity			Price
+=======================================================
+Vegetable Spring Roll			1			120 Rs
+Butter Paneer			1			225 Rs
+Naan			4			200 Rs
+Rasgulla			2			50 Rs
+-------------------------------------------------------
+STARTERS Tax				14.399999999999999 Rs
+MAINCOURSE Tax				21.25 Rs
+DESSERTS Tax				4.0 Rs
+
+Total Bill 				 634.65
+-------------------------------------------------------

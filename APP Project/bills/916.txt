@@ -1,0 +1,21 @@
+		**Welcome Customer**
+
+Bill Number: 916
+
+Customer Name: ANSH
+
+Customer Phone Number: 7662484567
+
+=======================================================Product			Quantity			Price
+=======================================================
+Chicken Wings			1			199 Rs
+Rice			1			30 Rs
+Naan			1			50 Rs
+Gulab Jamun\t		2			40 Rs
+-------------------------------------------------------
+STARTERS Tax				23.88 Rs
+MAINCOURSE Tax				4.0 Rs
+DESSERTS Tax				3.2 Rs
+
+Total Bill 				 350.08
+-------------------------------------------------------

@@ -1,0 +1,20 @@
+		**Welcome Customer**
+
+Bill Number: 931
+
+Customer Name: arshdeep
+
+Customer Phone Number: 123
+
+=======================================================Product			Quantity			Price
+=======================================================
+Momos			1			80 Rs
+Rice			1			30 Rs
+Ice Cream			1			50 Rs
+-------------------------------------------------------
+STARTERS Tax				9.6 Rs
+MAINCOURSE Tax				1.5 Rs
+DESSERTS Tax				4.0 Rs
+
+Total Bill 				 175.1
+-------------------------------------------------------

@@ -1,0 +1,24 @@
+		**Welcome Customer**
+
+Bill Number: 672
+
+Customer Name: Gautam
+
+Customer Phone Number: 97412522639
+
+=======================================================Product			Quantity			Price
+=======================================================
+Momos			1			80 Rs
+Paneer Tikka			1			250 Rs
+Naan			5			250 Rs
+Daal Makhani			1			175 Rs
+Ice Cream			1			50 Rs
+Rasgulla			1			25 Rs
+Gulab Jamun			1			20 Rs
+-------------------------------------------------------
+STARTERS Tax				39.6 Rs
+MAINCOURSE Tax				21.25 Rs
+DESSERTS Tax				7.6000000000000005 Rs
+
+Total Bill 				 918.45
+-------------------------------------------------------
